@@ -1,0 +1,19 @@
+.rmdp-input {
+    padding: 5px 25px 5px 10px !important;
+}
+
+.datepicker_options {
+    display: flex;
+    justify-content: end;
+
+    button {
+        border: none;
+        margin: 10px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    .datepicker_btn_cancel{
+        background: none;
+    }
+}
