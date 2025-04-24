@@ -1,6 +1,6 @@
 // import DateRangePicker from 'rsuite/DateRangePicker';
 
-import RangeDatePickerComponent from "./components/DateRange";
+import RangeDatePickerComponent from "./components/react-multi-date-picker/DateRange";
 
 // export default function Home() {
 //   return <DateRangePicker
